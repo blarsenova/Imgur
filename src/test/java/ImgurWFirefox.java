@@ -16,6 +16,7 @@ public class ImgurWFirefox {
 
 
     WebDriver driver;
+    Actions actions;
 
 
     @BeforeClass
